@@ -1,5 +1,4 @@
 
-import static javafx.application.Platform.exit;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
 
